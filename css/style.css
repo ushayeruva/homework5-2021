@@ -194,6 +194,16 @@ header{
     vertical-align: middle;
 
   }
+    
+   nav a {
+    padding: 30px 0px;
+    /*Your code here:*/
+    vertical-align: middle;
+    float: right; 
+
+  }
+   
+  
 
   /*Req 11*/
   .container{
