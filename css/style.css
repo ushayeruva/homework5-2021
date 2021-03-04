@@ -191,7 +191,7 @@ header{
   nav{
     padding: 30px 0px;
     /*Your code here:*/
-    align-self: center;
+    vertical-align: middle;
     float: right;
 
   }
