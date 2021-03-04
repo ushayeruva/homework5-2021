@@ -192,13 +192,10 @@ header{
     padding: 30px 0px;
     /*Your code here:*/
     vertical-align: middle;
+    text-align: right; 
 
   }
     
-   nav a {
-    float: right; 
-
-  }
    
   
 
